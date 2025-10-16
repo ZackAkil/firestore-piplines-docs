@@ -1,0 +1,4 @@
+site_name: Firestore Pipelines
+site_url: https://zackakil.github.io/firestore-pipelines-docs
+theme:
+  name: material
